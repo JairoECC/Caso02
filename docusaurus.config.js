@@ -91,7 +91,7 @@ const config = {
             ],
           },
           {
-            title: 'Email',
+            title: ' Email',
             items: [
               {
                 label: 'doctorpc654@gmail.com',
