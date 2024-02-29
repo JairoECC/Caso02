@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/logo.png',
 
   // Set the production url of your site here
-  url: 'https://jairoecc.github.io',
+  url: 'https://jairoecc.github.io/Caso02',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/C:/projects/caso02/my-website/build/index.html/',
